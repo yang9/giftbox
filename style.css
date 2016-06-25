@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana, sans-serif;
+  
+}
+
+.nav {
+  height: 30px;
+  background-color: #333;
+  
+}
+.container{
+  width: 80%;
+  background-color: #999;
+  margin: auto;
+  
+}
+
+.content-box {
+  background-color: #AAA;
+  width: 90%;
+  margin: auto;
+  
+}
+
+.footer {
+  height: 30px; 
+  background-color: #333;
+  color: white;
+  
+}
